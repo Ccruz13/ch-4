@@ -12,6 +12,7 @@ JavaScript
 ![Screenshot](images/quiz-screenshot.png)
 
 ## Website
-https://ccruz13.github.io/horiseon-ch1/
+https://ccruz13.github.io/ch-4/
+
 ## Contribution
 Made by Charlie Cruz
